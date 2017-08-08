@@ -6,7 +6,7 @@ var config = {
 			defaultCollection: "simples",
 			defaultUri: "mongodb://localhost:27017"
 		},
-		mockarooUrl: "http://www.mockaroo.com/536ecbc0/download?count=1000&key=48da1ee0"
+		mockarooUrl: "https://api.mockaroo.com/api/a9df5280?count=1000&key=a9c5e9f0"
 	},
 	makerMongoDBURI: "mongodb://localhost:27017/maker?authSource=admin",
 	checkinCollection: "foursq"
